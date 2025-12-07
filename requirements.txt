@@ -1,0 +1,27 @@
+# LangChain core dependencies
+langchain
+langchain-core
+
+# OpenAI API client
+langchain-openai
+openai
+
+# Anthropic API client
+langchain-anthropic
+
+# Google Gemini API client
+langchain-google-genai
+google-generativeai
+
+# Hugging Face API client
+langchain-huggingface
+transformers
+huggingface-hub
+
+# Environment variable management
+python-dotenv
+
+# Machine learning framework
+numpy
+scikit-learn
+pandas
