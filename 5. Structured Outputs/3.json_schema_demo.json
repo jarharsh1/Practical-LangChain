@@ -1,0 +1,10 @@
+{
+    "title":"Bike",
+    "description":"Two wheeler automotive with small engine that can carry 2 people",
+    "type":"object",
+    "properties":{
+        "name":"Bajaj Pulsar 150 Twin-Disc",
+        "Brand":"Bajaj"
+    },
+    "required":["name"]
+}
